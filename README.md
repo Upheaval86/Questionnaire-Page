@@ -7,3 +7,4 @@ Can be used as a base for a questionnaire for people to answer questions and vot
 - Saves to a TXT file in a simple and easy to read format
 - Has a pin code system to verify user is 'authorized' to use
 - Redirects to your website on successful submit
+- Supports adding your own custom Logo / Image to the page
