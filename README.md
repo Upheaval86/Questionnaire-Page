@@ -5,3 +5,5 @@ Can be used as a base for a questionnaire for people to answer
 -Supports as many answers as needed
 -Supports linking additional files for users to view or download
 -Saves to a TXT file in a simple and easy to read format
+- Has a pin code system to verify user is 'authorized' to use
+- Redirects to your website on successful submit
