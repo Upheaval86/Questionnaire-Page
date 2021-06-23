@@ -1,4 +1,4 @@
-# Voting-web-page
+# Questionnaire-Page
 Can be used as a base for a questionnaire for people to answer questions and vote on topics
 
 - A simple layout to add / remove questions as needed (just continue on my naming schema and be sure to add to the POST checks)
